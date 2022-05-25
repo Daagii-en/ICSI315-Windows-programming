@@ -1,0 +1,15 @@
+E:\repos\GPS-EventData\GPS-EventData\bin\Debug\net6.0\GPS-EventData.exe
+E:\repos\GPS-EventData\GPS-EventData\bin\Debug\net6.0\GPS-EventData.deps.json
+E:\repos\GPS-EventData\GPS-EventData\bin\Debug\net6.0\GPS-EventData.runtimeconfig.json
+E:\repos\GPS-EventData\GPS-EventData\bin\Debug\net6.0\GPS-EventData.dll
+E:\repos\GPS-EventData\GPS-EventData\bin\Debug\net6.0\GPS-EventData.pdb
+E:\repos\GPS-EventData\GPS-EventData\obj\Debug\net6.0\GPS-EventData.csproj.AssemblyReference.cache
+E:\repos\GPS-EventData\GPS-EventData\obj\Debug\net6.0\GPS-EventData.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\GPS-EventData\GPS-EventData\obj\Debug\net6.0\GPS-EventData.AssemblyInfoInputs.cache
+E:\repos\GPS-EventData\GPS-EventData\obj\Debug\net6.0\GPS-EventData.AssemblyInfo.cs
+E:\repos\GPS-EventData\GPS-EventData\obj\Debug\net6.0\GPS-EventData.csproj.CoreCompileInputs.cache
+E:\repos\GPS-EventData\GPS-EventData\obj\Debug\net6.0\GPS-EventData.dll
+E:\repos\GPS-EventData\GPS-EventData\obj\Debug\net6.0\refint\GPS-EventData.dll
+E:\repos\GPS-EventData\GPS-EventData\obj\Debug\net6.0\GPS-EventData.pdb
+E:\repos\GPS-EventData\GPS-EventData\obj\Debug\net6.0\GPS-EventData.genruntimeconfig.cache
+E:\repos\GPS-EventData\GPS-EventData\obj\Debug\net6.0\ref\GPS-EventData.dll

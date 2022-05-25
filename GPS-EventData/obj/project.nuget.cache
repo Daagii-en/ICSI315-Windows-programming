@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t4FES4QCPmxPoJ1+P3biIj/wD4SK1DnTq3sCKIpe9At4eNE/duXf4iZvAfa3vniC+DFHH65k1jRwA8Ta3ZqFQA==",
+  "success": true,
+  "projectFilePath": "E:\\repos\\GPS-EventData\\GPS-EventData\\GPS-EventData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newrelic.agent\\9.8.0\\newrelic.agent.9.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
