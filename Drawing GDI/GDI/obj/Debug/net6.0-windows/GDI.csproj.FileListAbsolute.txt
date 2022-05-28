@@ -1,0 +1,34 @@
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\bin\Debug\net6.0-windows\GDI.exe
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\bin\Debug\net6.0-windows\GDI.deps.json
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\bin\Debug\net6.0-windows\GDI.runtimeconfig.json
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\bin\Debug\net6.0-windows\GDI.dll
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\bin\Debug\net6.0-windows\GDI.pdb
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\obj\Debug\net6.0-windows\GDI.csproj.AssemblyReference.cache
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\obj\Debug\net6.0-windows\GDI.Form1.resources
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\obj\Debug\net6.0-windows\GDI.csproj.GenerateResource.cache
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\obj\Debug\net6.0-windows\GDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\obj\Debug\net6.0-windows\GDI.AssemblyInfoInputs.cache
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\obj\Debug\net6.0-windows\GDI.AssemblyInfo.cs
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\obj\Debug\net6.0-windows\GDI.csproj.CoreCompileInputs.cache
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\obj\Debug\net6.0-windows\GDI.dll
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\obj\Debug\net6.0-windows\refint\GDI.dll
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\obj\Debug\net6.0-windows\GDI.pdb
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\obj\Debug\net6.0-windows\GDI.genruntimeconfig.cache
+C:\Users\ulzii\source\repos\Multi threading\GDI\GDI\obj\Debug\net6.0-windows\ref\GDI.dll
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\bin\Debug\net6.0-windows\GDI.exe
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\bin\Debug\net6.0-windows\GDI.deps.json
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\bin\Debug\net6.0-windows\GDI.runtimeconfig.json
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\bin\Debug\net6.0-windows\GDI.dll
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\bin\Debug\net6.0-windows\GDI.pdb
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\obj\Debug\net6.0-windows\GDI.csproj.AssemblyReference.cache
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\obj\Debug\net6.0-windows\GDI.Form1.resources
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\obj\Debug\net6.0-windows\GDI.csproj.GenerateResource.cache
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\obj\Debug\net6.0-windows\GDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\obj\Debug\net6.0-windows\GDI.AssemblyInfoInputs.cache
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\obj\Debug\net6.0-windows\GDI.AssemblyInfo.cs
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\obj\Debug\net6.0-windows\GDI.csproj.CoreCompileInputs.cache
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\obj\Debug\net6.0-windows\GDI.dll
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\obj\Debug\net6.0-windows\refint\GDI.dll
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\obj\Debug\net6.0-windows\GDI.pdb
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\obj\Debug\net6.0-windows\GDI.genruntimeconfig.cache
+C:\Users\ulzii\source\repos\Drawing_GDI\GDI\obj\Debug\net6.0-windows\ref\GDI.dll
